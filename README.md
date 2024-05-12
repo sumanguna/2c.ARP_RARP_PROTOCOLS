@@ -2,7 +2,8 @@
 
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
-## NAME: KARTHIKEYAN R
+## NAME: sumanguna
+
 ## REG.NO:212222240046
 
 ## ALGORITHM:
