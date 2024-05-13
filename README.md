@@ -1,10 +1,10 @@
 # EX.NO:2c                SIMULATING ARP /RARP PROTOCOLS
+## NAME: Suman G
+## REG.NO:212223240163
 
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
-## NAME: sumanguna
 
-## REG.NO:212222240046
 
 ## ALGORITHM:
 ### Client:
@@ -74,10 +74,10 @@ while True:
  print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP
-![image](https://github.com/Yuvaranithulasingam/2c.ARP_RARP_PROTOCOLS/assets/121418522/f1672c11-b0d6-4d4a-b076-d81b505c4e50)
+<img width="936" alt="Screenshot 2024-04-09 at 12 50 27 PM" src="https://github.com/aaron-h-2k5/2c.ARP_RARP_PROTOCOLS/assets/144250957/c68c8d49-64d6-482b-afb2-c3cb3f587cdb">
 
 ## OUPUT -RARP
-![image](https://github.com/Yuvaranithulasingam/2c.ARP_RARP_PROTOCOLS/assets/121418522/34ab84eb-9e13-4449-b899-9128d5988d16)
+<img width="936" alt="Screenshot 2024-04-09 at 12 53 52 PM" src="https://github.com/aaron-h-2k5/2c.ARP_RARP_PROTOCOLS/assets/144250957/cf0ea817-0ece-4248-ad54-0215dcc6c669">
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
